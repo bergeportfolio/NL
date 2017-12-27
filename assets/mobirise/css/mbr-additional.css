@@ -10,11 +10,22 @@
 #ext_menu-a .mbr-navbar__hamburger {
   color: #ffffff;
 }
-#msg-box3-n .mbr-header .mbr-header__text {
-  text-align: center;
+#content5-y .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #fff;
 }
-#msg-box3-n .mbr-header .mbr-header__subtext {
+#content5-y .mbr-header .mbr-header__subtext {
   text-align: center;
+  color: #fff;
+}
+#content5-y .mbr-article {
+  color: #fff;
+}
+#content5-y .mbr-article P {
+  color: #ffffff;
+}
+#content5-y .mbr-header .mbr-header__text SPAN {
+  color: #b8312f;
 }
 #ext_menu-b .mbr-brand__name {
   font-size: 16px;
@@ -40,18 +51,6 @@
 #ext_menu-f .mbr-navbar__hamburger {
   color: #ffffff;
 }
-#ext_menu-g .mbr-brand__name {
-  font-size: 16px;
-}
-#ext_menu-g.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#ext_menu-g .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#ext_menu-g .mbr-navbar__hamburger {
-  color: #ffffff;
-}
 #ext_menu-o .mbr-brand__name {
   font-size: 16px;
 }
@@ -62,5 +61,65 @@
   background: #2c2c2c;
 }
 #ext_menu-o .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-t .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-t.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-t .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-t .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-18 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-18.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-18 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-18 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1b .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1b.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1b .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1b .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1f .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1f.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1f .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1f .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1i .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1i.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1i .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1i .mbr-navbar__hamburger {
   color: #ffffff;
 }
